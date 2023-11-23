@@ -1,0 +1,7 @@
+assemble:
+    - from: assets
+      into: static
+numbers-font-override-global-css:
+    name: Numbers font override global css
+    type: globalCSS
+    url: global.css
